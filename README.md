@@ -1,5 +1,4 @@
-# Hi there, I'm Harshitha 👋  
-from writing diaries to writing code...
+# Hi there, I'm Harshitha 🤓
 
 - 💻 Learning Python, ML & Data Science  
 - 📊 trying to Explore Data Analysis & AI  
