@@ -1,9 +1,8 @@
 # Hi there, I'm Harshitha 🤓
 
-- 💻 Learning Python, ML & Data Science  
-- 📊 trying to Explore Data Analysis & AI  
-- ✨ Sharing my coding journey  
-- 📍 India | she/her  
+- Learning Python,bit of ML 
+- trying to Explore Data & AI   
+- 📍 India |
 
 ---
 
@@ -14,20 +13,19 @@
 ---
 
 # Fun Fact:
-I stole a diary one day to write dear diary…and ended up coding with habits that stuck for life 📓💡
+I stole a diary one day to write dear diary…and ended up coding with habits that stuck for life 📓
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=u-harshitha007&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=u-harshitha007&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=u-harshitha007&theme=radical)
 
----### 🧰 Languages & Tools
+---### Languages & Tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+ src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <!--
