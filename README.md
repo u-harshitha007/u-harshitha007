@@ -9,12 +9,8 @@ India • Product • Data • Python
 </p>
 
 ---
-
 ## Profile
-Product-oriented learner focused on identifying real user problems, applying structured thinking,  
-and using data to inform decisions. Currently learning and building strong foundations in Python   
-while exploring AI-driven product use cases.
-
+I’m a beginner, product-oriented learner focused on identifying real user problems, applying structured thinking and using data to inform decisions. I’m currently learning & building strong foundations in Python while exploring AI-driven product use cases.
 ---
 
 ## Core Strengths
