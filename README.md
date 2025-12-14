@@ -1,7 +1,7 @@
- <h1 align="center">Harshitha Uppar</h1>
+ <h1 align="center">U HARSHITHA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=600&color=8B949E&lines=Product+and+Data+Thinker;Python+and+Data+Science+Foundations;Building+with+Users+in+Mind" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=600&color=8B949E&lines=Product+and+Data+Thinker;Building+with+Users+in+Mind" />
 </p>
 
 <p align="center">
