@@ -3,9 +3,7 @@
 <p align="center">
 </p>
 
-<p align="center">
-  <b>Exploring Data Science • AI • Product Strategy • Python Full Stack</b>
-</p>
+  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/u-harshitha007">
