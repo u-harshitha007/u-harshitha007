@@ -1,88 +1,95 @@
- <h1 align="center">U HARSHITHA</h1>
+ <h1 align="center">U Harshitha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=600&color=8B949E&lines=Product+and+Data+Thinker;Building+with+Users+in+Mind" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1200&center=true&vCenter=true&width=700&color=58A6FF&lines=Aspiring+Data+Scientist;Python+Developer+%7C+AI+Builder;Product+and+Data+Thinker;Building+with+Users+in+Mind" />
 </p>
 
 <p align="center">
-India • Product • Data • Python
-</p>
-
----
-## Profile
-I’m a beginner, product-oriented learner focused on identifying real user problems, applying structured thinking and using data to inform decisions. I’m currently learning & building strong foundations in Python while exploring AI-driven product use cases.
----
-
-## Core Strengths
-- User-centric product thinking and problem framing  
-- Data-driven decision making 
-- Clear communication and structured approach to problem solving  
-- buliding technical foundations for effective collaboration with engineers  
-
----
-
-## GitHub Signals
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=U-Harshitha&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=U-Harshitha&theme=github-dark&hide_border=true" height="165"/>
+  <b>India • Data Science • AI • Product Strategy • Python Full Stack</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U-Harshitha&layout=compact&theme=github_dark&hide_border=true" height="140"/>
+  <a href="https://www.linkedin.com/in/u-harshitha007">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harshithauppar203@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/u-harshitha007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## Contribution Consistency
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=U-Harshitha&theme=github-compact&hide_border=true)
+# About Me
 
----
+```yaml
+Name: U Harshitha
+Current Focus:
+  - Data Structures & Algorithms
+  - Data Science
+  - Python Full Stack Development
+  - AI Systems
+  - Product Strategy
 
-## Skills
-**Programming:** Python and C, C++ basics   
-**Data:** exploring NumPy, Pandas and data analysis  
-**Tools:** Git, GitHub, VS Code  
-**Product:** Problem framing, requirement analysis, user journeys, prioritization  
+ # Tech Stack
 
----
-
-## Selected Work (Problem → Approach → Outcome)
-
-### Invisible Cloak (OpenCV)
-**Problem:** Understanding how real-time computer vision systems detect and manipulate visual inputs.  
-**Approach:** Built a Python-based OpenCV pipeline using color detection, masking, and frame processing.  
-**Outcome:** Developed practical insight into computer vision workflows and real-time processing constraints.
-
----
-
-### Excel Data Combiner
-**Problem:** Manual consolidation of multiple Excel files is time-consuming and error-prone.  
-**Approach:** Designed a Python automation using Pandas to merge multiple Excel sheets into a single dataset.  
-**Outcome:** Reduced manual effort and improved data consistency, demonstrating real-world data automation skills.
-
----
-
-### Rock Paper Scissors (Python)
-**Problem:** Implementing clean, maintainable game logic with intuitive user interaction.  
-**Approach:** Structured control flow and input validation using core Python principles.  
-**Outcome:** Strengthened logic design, readability, and disciplined coding practices.
-
----
-
-## Interests
-Product management, data-driven products, AI applications, and building for Gen Z users.
-
----
-
-## Connect
 <p align="center">
-<a href="www.linkedin.com/in/u-harshitha007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/u.harshhithaa/"><img src="https://img.shields.io/badge/Instagram-181717?style=flat&logo=instagram&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,html,css,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+# GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=u-harshitha007&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=u-harshitha007&theme=github-dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-harshitha007&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
+
+# Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=u-harshitha007&theme=github-compact&hide_border=true" />
+</p>
+# Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/u-harshitha007">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-DSA_Practice-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="mailto:harshithauppar203@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
- Built with curiosity, guided by data, and improved a little every day.
+  <i>Built with curiosity. Guided by data. Growing through execution.</i>
 </p>
+<!-- Profile Views Counter -->
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=u-harshitha007&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+<!-- Optional Trophy Section (Premium Visual Upgrade) -->
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=u-harshitha007&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
