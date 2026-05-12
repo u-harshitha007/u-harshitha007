@@ -24,6 +24,7 @@
 # About Me
 
 Name: U Harshitha
+
 Current Focus:
   - Data Structures & Algorithms
   - Data Science
