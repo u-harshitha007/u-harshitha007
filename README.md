@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Data Science • AI • Product Strategy • Python Full Stack</b>
+  <b>Exploring Data Science • AI • Product Strategy • Python Full Stack</b>
 </p>
 
 <p align="center">
