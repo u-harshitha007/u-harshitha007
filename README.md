@@ -25,8 +25,7 @@ Name: U Harshitha
 
 Current Focus:
   - Data Structures & Algorithms
-  - Data Science
-  - Python Full Stack Development
+  - Data Science & Python Full Stack
   - AI Systems
   - Product Strategy
 
