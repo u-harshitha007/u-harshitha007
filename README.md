@@ -67,9 +67,6 @@ Current Focus:
   <a href="https://www.linkedin.com/in/u-harshitha007">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-DSA_Practice-orange?style=for-the-badge&logo=leetcode" />
-  </a>
   <a href="mailto:harshithauppar203@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
