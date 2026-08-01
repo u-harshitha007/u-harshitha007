@@ -27,7 +27,6 @@ Current Focus:
   - Data Structures & Algorithms
   - Data Science & Python Full Stack
   - AI Systems
-  - Product Strategy
 
 # Tech Stack
 
