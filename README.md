@@ -73,6 +73,4 @@ Current Focus:
 
 ---
 
-<p align="center">
-  <i>Built with curiosity. Guided by data. Growing through execution.</i>
-</p>
+ 
